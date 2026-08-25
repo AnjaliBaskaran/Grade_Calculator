@@ -1,2 +1,2 @@
 # Grade_Calculator
-## Version Control Practice
+# Version Control Practice
